@@ -1,0 +1,2347 @@
+#EXTM3U
+#EXTINF:-1,RTP 1
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/47
+#EXTINF:-1,RTP 2
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/45
+#EXTINF:-1,SIC
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/43
+#EXTINF:-1,TVI
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/41
+#EXTINF:-1,RTP 1 FHD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/46
+#EXTINF:-1,RTP 2 FHD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/44
+#EXTINF:-1,SIC FHD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/42
+#EXTINF:-1,TVI FHD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/40
+#EXTINF:-1,TVI 24
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/25
+#EXTINF:-1,SIC NOTICIAS HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/27
+#EXTINF:-1,RTP 3
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/35
+#EXTINF:-1,PORTO CANAL HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/36
+#EXTINF:-1,CMTV HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/37
+#EXTINF:-1,RTP INTERNACIONAL
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/32
+#EXTINF:-1,SIC MULHER HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/28
+#EXTINF:-1,SIC CARAS HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/29
+#EXTINF:-1,SIC RADICAL HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/26
+#EXTINF:-1,CANAL Q
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/38
+#EXTINF:-1,RTP MEMORIA
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/30
+#EXTINF:-1,RTP AFRICA
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/33
+#EXTINF:-1,RTP MADEIRA
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/31
+#EXTINF:-1,RTP ACORES
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/34
+#EXTINF:-1,TVI REALITY
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/23
+#EXTINF:-1,TVI FICCAO
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/24
+#EXTINF:-1,TV RECORD HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/2
+#EXTINF:-1,GLOBO
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/16
+#EXTINF:-1,GLOBO NOW
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/15
+#EXTINF:-1,ABOLA TV
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/89
+#EXTINF:-1,CANAL 11 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/17
+#EXTINF:-1,CANAL 11
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/20540
+#EXTINF:-1,SPORTV + FULL HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13
+#EXTINF:-1,SPORTV +
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/14
+#EXTINF:-1,SPORTV 1 FULL HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12
+#EXTINF:-1,SPORTV 1 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/11
+#EXTINF:-1,SPORTV 1
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/10
+#EXTINF:-1,SPORTV 2 FULL HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/9
+#EXTINF:-1,SPORTV 2 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/8
+#EXTINF:-1,SPORTV 2
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/7
+#EXTINF:-1,SPORTV 3 FULL HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/6
+#EXTINF:-1,SPORTV 3 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/5
+#EXTINF:-1,SPORTV 3
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/4
+#EXTINF:-1,SPORTV 4 FULL HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/92
+#EXTINF:-1,SPORTV 4 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/91
+#EXTINF:-1,SPORTV 4
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/90
+#EXTINF:-1,SPORTV 5 FULL HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/95
+#EXTINF:-1,SPORTV 5 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/94
+#EXTINF:-1,SPORTV 5
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/93
+#EXTINF:-1,SPORTV NBA
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/60
+#EXTINF:-1,BTV 1 FULL HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/88
+#EXTINF:-1,BTV 1 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/87
+#EXTINF:-1,BTV 1
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/86
+#EXTINF:-1,ELEVEN SPORTS 1 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/85
+#EXTINF:-1,ELEVEN SPORTS 1
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/84
+#EXTINF:-1,ELEVEN SPORTS 2 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/83
+#EXTINF:-1,ELEVEN SPORTS 2
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/82
+#EXTINF:-1,ELEVEN SPORTS 3 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/81
+#EXTINF:-1,ELEVEN SPORTS 3
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/80
+#EXTINF:-1,ELEVEN SPORTS 4 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/79
+#EXTINF:-1,ELEVEN SPORTS 4
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/78
+#EXTINF:-1,ELEVEN SPORTS 5 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/77
+#EXTINF:-1,ELEVEN SPORTS 5
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/76
+#EXTINF:-1,ELEVEN SPORTS 6 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/75
+#EXTINF:-1,ELEVEN SPORTS 6
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/74
+#EXTINF:-1,PFC
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/63
+#EXTINF:-1,SPORTING TV
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/61
+#EXTINF:-1,EUROSPORT 1 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/70
+#EXTINF:-1,EUROSPORT 2 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/69
+#EXTINF:-1,TRACE SPORTS STARS
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/15364
+#EXTINF:-1,MOTORVISION
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/65
+#EXTINF:-1,FAST E FUN BOX HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/15367
+#EXTINF:-1,FUEL TV HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/67
+#EXTINF:-1,FIGHT NETWORK
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/68
+#EXTINF:-1,FIGHTBOX HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/15366
+#EXTINF:-1,CACAVISION
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/72
+#EXTINF:-1,CACA E PESCA
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/73
+#EXTINF:-1,CAMPO PEQUENO TV
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/19669
+#EXTINF:-1,TOROS TV HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/59
+#EXTINF:-1,DOG TV HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/71
+#EXTINF:-1,DISNEY CHANNEL
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/179
+#EXTINF:-1,DISNEY JUNIOR
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/178
+#EXTINF:-1,CANAL PANDA
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/186
+#EXTINF:-1,PANDA BIGGS
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/164
+#EXTINF:-1,PANDA KIDS
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/22496
+#EXTINF:-1,NICKELODEAN
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/165
+#EXTINF:-1,NICK JR
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/166
+#EXTINF:-1,BOOMRANG
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/188
+#EXTINF:-1,CARTOON NETWORK
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/184
+#EXTINF:-1,SIC K
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/152
+#EXTINF:-1,WALT DISNEY
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12347
+#EXTINF:-1,KIDS TV
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/19705
+#EXTINF:-1,JIM JAM
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/172
+#EXTINF:-1,BABY TV
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/191
+#EXTINF:-1,TIJI
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/150
+#EXTINF:-1,LOLLY KIDS
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/20973
+#EXTINF:-1,GAMETOON HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/21914
+#EXTINF:-1,KIDS TV 4K
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/20974
+#EXTINF:-1,TVCINE TOP HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/58
+#EXTINF:-1,TVCINE TOP
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/57
+#EXTINF:-1,TVCINE EDITION HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/56
+#EXTINF:-1,TVCINE EDITION
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/55
+#EXTINF:-1,TVCINE EMOTION HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/54
+#EXTINF:-1,TVCINE EMOTION
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/53
+#EXTINF:-1,TVCINE ACTION HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/52
+#EXTINF:-1,TVCINE ACTION
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/51
+#EXTINF:-1,NOS STUDIOS HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/115
+#EXTINF:-1,HOLLYWOOD HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/120
+#EXTINF:-1,CINEMUNDO
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/132
+#EXTINF:-1,FILMBOX ARTHOUSE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/15365
+#EXTINF:-1,AMC HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/139
+#EXTINF:-1,CINEMA 4K
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/15107
+#EXTINF:-1,NETFLIX
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/19701
+#EXTINF:-1,HBO 
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/19706
+#EXTINF:-1,SYFY HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/113
+#EXTINF:-1,AXN HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/137
+#EXTINF:-1,AXN WHITE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/136
+#EXTINF:-1,AXN MOVIES
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/138
+#EXTINF:-1,FOX HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/123
+#EXTINF:-1,FOX LIFE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/122
+#EXTINF:-1,FOX COMEDY HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/125
+#EXTINF:-1,FOX CRIME
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/124
+#EXTINF:-1,FOX MOVIES HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/121
+#EXTINF:-1,ID INVESTIGATION DISCOVERY
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/119
+#EXTINF:-1,CRIME + INVESTIGATION
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/131
+#EXTINF:-1,CANAL HISTORIA
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/134
+#EXTINF:-1,ODISSEIA HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/114
+#EXTINF:-1,NAT GEOGRAFIC
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/116
+#EXTINF:-1,NAT GEO WILD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/117
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/130
+#EXTINF:-1,DOCUBOX HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/21159
+#EXTINF:-1,CANAL 180 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/21158
+#EXTINF:-1,TLC
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/112
+#EXTINF:-1,QYOU
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/19670
+#EXTINF:-1,TRAVEL CHANNEL
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/111
+#EXTINF:-1,E! Entertainment HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/128
+#EXTINF:-1,CBS REALTY
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/133
+#EXTINF:-1,BLAZE HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/135
+#EXTINF:-1,CASA E COZINHA HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/16254
+#EXTINF:-1,24 KITCHEN
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/140
+#EXTINF:-1,FOOD NETWORK HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/126
+#EXTINF:-1,S+ HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/105
+#EXTINF:-1,FTV
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/108
+#EXTINF:-1,FASHIONBOX HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/21160
+#EXTINF:-1,ZEE TV
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/103
+#EXTINF:-1,MAX
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/106
+#EXTINF:-1,TRACE URBAN
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/104
+#EXTINF:-1,TRACE BRAZUCA
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/21162
+#EXTINF:-1,TRACE TOCA
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/16253
+#EXTINF:-1,MTV PORTUGAL
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/100
+#EXTINF:-1,MTV LIVE HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/101
+#EXTINF:-1,MCM POP
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/102
+#EXTINF:-1,VH1
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/96
+#EXTINF:-1,AFRO MUSIC
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/99
+#EXTINF:-1,ALMA LUSA
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/19668
+#EXTINF:-1,TOP BRASIL
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12346
+#EXTINF:-1,TOP LATINO
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12345
+#EXTINF:-1,TOP PORTUGAL
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12344
+#EXTINF:-1,ICONCERTS
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/98
+#EXTINF:-1,MEZZO
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/97
+#EXTINF:-1,MEZZO LIVE HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/167
+#EXTINF:-1,TVI REALITY CAMERA 1
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/22
+#EXTINF:-1,TVI REALITY CAMERA 2
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/21
+#EXTINF:-1,TVI REALITY CAMERA 3
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/20
+#EXTINF:-1,TVI REALITY CAMERA 4
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/19
+#EXTINF:-1,TVI REALITY MOSAICO
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/18
+#EXTINF:-1,ZAP VIVA HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/142
+#EXTINF:-1,DEUTSCHE WELLE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/180
+#EXTINF:-1,SANTUARIO FATIMA
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/156
+#EXTINF:-1,ANDALUCIA
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/15368
+#EXTINF:-1,TV MUNDIAL
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/15363
+#EXTINF:-1,CANCAO NOVA
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/185
+#EXTINF:-1,KURIAKOS TV
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/170
+#EXTINF:-1,KURIAKOS CINE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/19704
+#EXTINF:-1,KURIAKOS KIDS
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/19703
+#EXTINF:-1,KURIAKOS MUSIC
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/19702
+#EXTINF:-1,TV GALICIA
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/148
+#EXTINF:-1,TVE INTERNATIONAL
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/146
+#EXTINF:-1,TV5 MONDE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/147
+#EXTINF:-1,M6
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/168
+#EXTINF:-1,FRANCE 24
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/175
+#EXTINF:-1,TPA INTERNATIONAL
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/149
+#EXTINF:-1,TCV INTERNATIONAL
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/151
+#EXTINF:-1,CUBAVISION
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/181
+#EXTINF:-1,LOCALVISAO
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/169
+#EXTINF:-1,EURONEWS
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/176
+#EXTINF:-1,RECORD NEWS
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/159
+#EXTINF:-1,CNN
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/182
+#EXTINF:-1,BBC WORLD NEWS
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/190
+#EXTINF:-1,KBS WORLD HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/171
+#EXTINF:-1,ARTV
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/39
+#EXTINF:-1,BLOOMBERG
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/189
+#EXTINF:-1,Swiss: SRF 1HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12349
+#EXTINF:-1,Swiss: SRF 1
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12350
+#EXTINF:-1,Swiss: SRF 2 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12351
+#EXTINF:-1,Swiss: SRF 2
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12352
+#EXTINF:-1,Swiss: SRF Info HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12353
+#EXTINF:-1,Swiss: SRF Info
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12354
+#EXTINF:-1,Swiss: RTS Un HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12355
+#EXTINF:-1,Swiss: RTS Deux HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12356
+#EXTINF:-1,Swiss: RSI LA 1 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12357
+#EXTINF:-1,Swiss: RSI LA 2 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12358
+#EXTINF:-1,Swiss: 3
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12359
+#EXTINF:-1,Swiss: 4
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12360
+#EXTINF:-1,Swiss: 5
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12361
+#EXTINF:-1,Swiss: Schweiz 5 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12362
+#EXTINF:-1,Swiss: 6
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12363
+#EXTINF:-1,Swiss: TVO
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12364
+#EXTINF:-1,Swiss: TV25
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12365
+#EXTINF:-1,Swiss: TV24 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12366
+#EXTINF:-1,Swiss: TV Suedostschweiz
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12367
+#EXTINF:-1,Swiss: TLC
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12368
+#EXTINF:-1,Swiss: TeleZueri
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12369
+#EXTINF:-1,Swiss: TeleTicino
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12370
+#EXTINF:-1,Swiss: Telebiellingue
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12371
+#EXTINF:-1,Swiss: Telebasel
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12372
+#EXTINF:-1,Swiss: Tele1
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12373
+#EXTINF:-1,Swiss: Tele Z
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12374
+#EXTINF:-1,Swiss: Tele Top
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12375
+#EXTINF:-1,Swiss: Tele M1
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12376
+#EXTINF:-1,Swiss: Tele D
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12377
+#EXTINF:-1,Swiss: Tele Baern
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12378
+#EXTINF:-1,Swiss: Star TV
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12379
+#EXTINF:-1,Swiss: S1 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12380
+#EXTINF:-1,Swiss: Puls 8
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12381
+#EXTINF:-1,Swiss: Nickelodeon
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12382
+#EXTINF:-1,Swiss: Disney Junior
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12383
+#EXTINF:-1,Swiss: Disney Channel
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12384
+#EXTINF:-1,Swiss: Comedy Central HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12385
+#EXTINF:-1,Swiss: TC ZOOM
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12386
+#EXTINF:-1,Swiss: TC Emotion FHD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12387
+#EXTINF:-1,Swiss: TC Emotion
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12388
+#EXTINF:-1,Swiss: TC Discovery Channel
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12389
+#EXTINF:-1,Swiss: TC Cinema FHD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12390
+#EXTINF:-1,Swiss: TC Cinema
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12391
+#EXTINF:-1,Swiss: TC Animal Planet
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12392
+#EXTINF:-1,Swiss: TC Action FHD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12393
+#EXTINF:-1,Swiss: TC Action
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12394
+#EXTINF:-1,Swiss: TC Bundesliga FHD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12395
+#EXTINF:-1,Swiss: TC Bundesliga
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12396
+#EXTINF:-1,Swiss: TC Sport 1 FHD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12397
+#EXTINF:-1,Swiss: TC Sport 1
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12398
+#EXTINF:-1,Swiss: TC Sport 2 FHD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12399
+#EXTINF:-1,Swiss: TC Sport 2
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12400
+#EXTINF:-1,Swiss: Blue Sport Event 1
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12401
+#EXTINF:-1,Swiss: Blue Sport Event 2
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12402
+#EXTINF:-1,Swiss: MySports HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12403
+#EXTINF:-1,Swiss: MySports 1 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12404
+#EXTINF:-1,Swiss: MySports 2 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12405
+#EXTINF:-1,Swiss: MySports 3 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12406
+#EXTINF:-1,Swiss: MySports 4 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12407
+#EXTINF:-1,Swiss: MySports 5 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12408
+#EXTINF:-1,Swiss: MySports 6 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12409
+#EXTINF:-1,Swiss: MySports 7 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12410
+#EXTINF:-1,Swiss: MySports 8 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12411
+#EXTINF:-1,Swiss: MySports 9 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12412
+#EXTINF:-1,BEIN SPORTS 1
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12413
+#EXTINF:-1,BEIN SPORTS 2
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12414
+#EXTINF:-1,BEIN SPORTS 3
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12415
+#EXTINF:-1,BEIN SPORTS 4
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12416
+#EXTINF:-1,BEIN SPORTS 5
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12417
+#EXTINF:-1,BEIN SPORTS 6
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12418
+#EXTINF:-1,BEIN SPORTS 7
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12419
+#EXTINF:-1,BEIN SPORTS 8
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12420
+#EXTINF:-1,BEIN SPORTS 9
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12421
+#EXTINF:-1,BEIN SPORTS 10
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12422
+#EXTINF:-1,PL: Eleven Sports 1 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12423
+#EXTINF:-1,PL: Eleven Sports 2 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12424
+#EXTINF:-1,PL: Eleven Sports 3 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12425
+#EXTINF:-1,PL: Eleven Sports 4 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12426
+#EXTINF:-1,PT: Eleven Sports 1 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12427
+#EXTINF:-1,PT: Eleven Sports 2 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12428
+#EXTINF:-1,PT: Eleven Sports 3 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12429
+#EXTINF:-1,PT: Eleven Sports 4 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12430
+#EXTINF:-1,PT: Eleven Sports 5 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12431
+#EXTINF:-1,PT: Eleven Sports 6 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12432
+#EXTINF:-1,IT: Rai 1
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12433
+#EXTINF:-1,IT: Rai 2
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12434
+#EXTINF:-1,IT: Rai 3
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12435
+#EXTINF:-1,IT: Rai 4
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12436
+#EXTINF:-1,IT: Rai 5
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12437
+#EXTINF:-1,IT: RSI La 1
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12438
+#EXTINF:-1,IT: RSI La 2
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12439
+#EXTINF:-1,IT: Rete 4
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12440
+#EXTINF:-1,IT: La 5
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12441
+#EXTINF:-1,IT: La 7
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12442
+#EXTINF:-1,IT: La 7D
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12443
+#EXTINF:-1,IT: Mediaset Extra
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12444
+#EXTINF:-1,IT: Real Time
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12445
+#EXTINF:-1,IT: Rai yoyo
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12446
+#EXTINF:-1,IT: Rai Storia
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12447
+#EXTINF:-1,IT: Rai Premium
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12448
+#EXTINF:-1,IT: Rai News 24
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12449
+#EXTINF:-1,IT: Rai Movie
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12450
+#EXTINF:-1,IT: Rai Gulp
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12451
+#EXTINF:-1,IT: TV2000
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12452
+#EXTINF:-1,IT: Top Crime HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12453
+#EXTINF:-1,IT: Top Calcio 24
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12454
+#EXTINF:-1,IT: TG Norba 24
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12455
+#EXTINF:-1,IT: Tg Com 24
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12456
+#EXTINF:-1,IT: Super Tennis
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12457
+#EXTINF:-1,IT: Super
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12458
+#EXTINF:-1,IT: Sport Italia
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12459
+#EXTINF:-1,IT: Sky Uno
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12461
+#EXTINF:-1,IT: Sky TG 24
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12462
+#EXTINF:-1,IT: Sky Sport Uno
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12463
+#EXTINF:-1,IT: Sky Sport Serie A
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12464
+#EXTINF:-1,IT: Sky Sport NBA
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12465
+#EXTINF:-1,IT: Sky Sport Formula 1
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12466
+#EXTINF:-1,IT: Sky Sport Football
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12467
+#EXTINF:-1,IT: Sky Sport Collection
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12468
+#EXTINF:-1,IT: Sky Sport Arena
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12469
+#EXTINF:-1,IT: SKY Sport 1
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12470
+#EXTINF:-1,IT: SKY Sport 2
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12471
+#EXTINF:-1,IT: SKY Sport 3
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12472
+#EXTINF:-1,IT: SKY Sport 4
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12473
+#EXTINF:-1,IT: SKY Sport 5
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12474
+#EXTINF:-1,IT: SKY Sport 6
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12475
+#EXTINF:-1,IT: SKY Sport 7
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12476
+#EXTINF:-1,IT: Sky Sport 24
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12477
+#EXTINF:-1,IT: Sky Serie A
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12478
+#EXTINF:-1,IT: SKY PRIMAFILA 9
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12479
+#EXTINF:-1,IT: SKY PRIMAFILA 8
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12480
+#EXTINF:-1,IT: SKY PRIMAFILA 7
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12481
+#EXTINF:-1,IT: SKY PRIMAFILA 6
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12482
+#EXTINF:-1,IT: SKY PRIMAFILA 5
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12483
+#EXTINF:-1,IT: SKY PRIMAFILA 4
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12484
+#EXTINF:-1,IT: SKY PRIMAFILA 3
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12485
+#EXTINF:-1,IT: SKY PRIMAFILA 2
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12486
+#EXTINF:-1,IT: SKY PRIMAFILA 10
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12487
+#EXTINF:-1,IT: SKY PRIMAFILA 1
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12488
+#EXTINF:-1,IT: Sky Moto GP
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12489
+#EXTINF:-1,IT: SKY Cinema Uno 24
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12490
+#EXTINF:-1,IT: Sky Cinema Uno 1
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12491
+#EXTINF:-1,IT: SKY CINEMA Suspense
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12492
+#EXTINF:-1,IT: SKY Cinema Romance
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12493
+#EXTINF:-1,IT: Sky Cinema Family
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12494
+#EXTINF:-1,IT: SKY Cinema Due 24
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12495
+#EXTINF:-1,IT: SKY Cinema Due
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12496
+#EXTINF:-1,IT: SKY Cinema Drama
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12497
+#EXTINF:-1,IT: Sky Cinema Comedy
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12498
+#EXTINF:-1,IT: SKY Cinema Collection
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12499
+#EXTINF:-1,IT: SKY Cinema Action
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12500
+#EXTINF:-1,IT: Sky Cinema 1
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12501
+#EXTINF:-1,IT: Sky Atlantic
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12502
+#EXTINF:-1,IT: Sky Arte
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12503
+#EXTINF:-1,IT: Premium Stories
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12504
+#EXTINF:-1,IT: Premium Crime
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12506
+#EXTINF:-1,IT: Premium Cinema Energy
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12507
+#EXTINF:-1,IT: Premium Cinema Comedy
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12508
+#EXTINF:-1,IT: Premium Cinema 24
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12509
+#EXTINF:-1,IT: Premium Cinema
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12510
+#EXTINF:-1,IT: Premium Action
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12511
+#EXTINF:-1,IT: DMAX
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12512
+#EXTINF:-1,IT: Paramount Channel
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12513
+#EXTINF:-1,IT: Nove
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12514
+#EXTINF:-1,IT: Nickelodeon
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12515
+#EXTINF:-1,IT: Nick JR
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12516
+#EXTINF:-1,IT: National Geographic
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12517
+#EXTINF:-1,IT: Nat Geo Wild
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12518
+#EXTINF:-1,IT: MTV
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12519
+#EXTINF:-1,IT: MOTOR TREND
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12520
+#EXTINF:-1,IT: Italia 1
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12522
+#EXTINF:-1,IT: History
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12523
+#EXTINF:-1,IT: Fox Crime
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12525
+#EXTINF:-1,IT: Fox
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12526
+#EXTINF:-1,IT: Food Network
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12527
+#EXTINF:-1,IT: Focus
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12528
+#EXTINF:-1,IT: Eurosport 2
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12529
+#EXTINF:-1,IT: Eurosport 1
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12530
+#EXTINF:-1,IT: Dmax HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12531
+#EXTINF:-1,IT: Uniresat
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12532
+#EXTINF:-1,IT: Giallo
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12533
+#EXTINF:-1,IT: Discovery Science
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12534
+#EXTINF:-1,IT: Discovery Channe
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12535
+#EXTINF:-1,IT: Dea Kids
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12536
+#EXTINF:-1,IT: Dea Junior
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12537
+#EXTINF:-1,IT: DAZN 11
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12538
+#EXTINF:-1,IT: DAZN 1 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12539
+#EXTINF:-1,IT: Dazn 1
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12540
+#EXTINF:-1,IT: Dazn 2
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12541
+#EXTINF:-1,IT: Dazn 3
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12542
+#EXTINF:-1,IT: Dazn 4
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12543
+#EXTINF:-1,IT: Dazn 5
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12544
+#EXTINF:-1,IT: DAZN 6
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12545
+#EXTINF:-1,IT: DAZN 7
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12546
+#EXTINF:-1,IT: DAZN 8
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12547
+#EXTINF:-1,IT: DAZN 9
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12548
+#EXTINF:-1,IT: DAZN 10
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12549
+#EXTINF:-1,IT: Crime Investigation
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12550
+#EXTINF:-1,IT: Comedy Central
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12551
+#EXTINF:-1,IT: Cartoonito
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12552
+#EXTINF:-1,IT: Cartoon Network
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12553
+#EXTINF:-1,IT: Canale 5
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12554
+#EXTINF:-1,IT: Dazn 12
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12555
+#EXTINF:-1,IT: Boomerang
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12556
+#EXTINF:-1,IT: Boing
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12557
+#EXTINF:-1,IT: Blaze
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12558
+#EXTINF:-1,IT: Baby Tv
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12559
+#EXTINF:-1,IT: 20 Mediaset
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12561
+#EXTINF:-1,IT:  Sky Cinema  24
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12562
+#EXTINF:-1,IT:  Canale 8
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12563
+#EXTINF:-1,BR: SBT
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12564
+#EXTINF:-1,BR: SBT SP
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/19684
+#EXTINF:-1,BR: REDE TV
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12565
+#EXTINF:-1,BR: RECORD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12566
+#EXTINF:-1,BR: RECORD SP
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/19685
+#EXTINF:-1,BR: BAND
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12567
+#EXTINF:-1,BR: BAND SP
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/19699
+#EXTINF:-1,BR: GLOBO SP
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12568
+#EXTINF:-1,BR: GLOBO MINAS
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/19687
+#EXTINF:-1,BR: GLOBO RJ
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12569
+#EXTINF:-1,BR: GLOBO PT
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12570
+#EXTINF:-1,BR: GLOBO NORDESTE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12571
+#EXTINF:-1,BR: GLOBO INTERNACIONAL
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12572
+#EXTINF:-1,BR: GLOBO NEWS
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12573
+#EXTINF:-1,BR: RECORD NEWS
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12574
+#EXTINF:-1,BR: BAND NEWS
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12575
+#EXTINF:-1,BR: CNN BRASIL
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/19688
+#EXTINF:-1,BR: GNT
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12576
+#EXTINF:-1,BR: VIVA
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12645
+#EXTINF:-1,BR: MULTISHOW
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12577
+#EXTINF:-1,BR: COMEDY CENTRAL
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12578
+#EXTINF:-1,BR: GLOBOSAT
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12579
+#EXTINF:-1,BR: TC ACTION
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12580
+#EXTINF:-1,BR: TC PREMIUM
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12581
+#EXTINF:-1,BR: TC TOUCH
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12582
+#EXTINF:-1,BR: TC PIPOCA
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12583
+#EXTINF:-1,BR: TC FUN
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12584
+#EXTINF:-1,BR: TC CULT
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12585
+#EXTINF:-1,BR: WARNER CHANNEL
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12586
+#EXTINF:-1,BR: UNIVERSAL CHANNEL
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12587
+#EXTINF:-1,BR: PARAMOUNT CHANNEL
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12588
+#EXTINF:-1,BR: STUDIO UNIVERSAL
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12589
+#EXTINF:-1,BR: TNT
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12590
+#EXTINF:-1,BR: MEGAPIX
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12591
+#EXTINF:-1,BR: HBO XTREME
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12592
+#EXTINF:-1,BR: HBO MUNDI
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12593
+#EXTINF:-1,BR: HBO POP
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12594
+#EXTINF:-1,BR: SONY
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12595
+#EXTINF:-1,BR: HBO
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12596
+#EXTINF:-1,BR: HBO 2
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12597
+#EXTINF:-1,BR: HBOPLUS
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12598
+#EXTINF:-1,BR: HBO SIGNATURE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12599
+#EXTINF:-1,BR: HBO FAMILY
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12600
+#EXTINF:-1,BR: CINEMAX
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12601
+#EXTINF:-1,BR: TLC
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12602
+#EXTINF:-1,BR: SYFY
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12603
+#EXTINF:-1,BR: AMC
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12604
+#EXTINF:-1,BR: FX
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12605
+#EXTINF:-1,BR: AXN
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12606
+#EXTINF:-1,BR: SPACE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12612
+#EXTINF:-1,BR: FOX
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12607
+#EXTINF:-1,BR: FOX LIFE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12608
+#EXTINF:-1,BR: FOX PREMIUM 1
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12609
+#EXTINF:-1,BR: FOX PREMIUM 2
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12610
+#EXTINF:-1,BR: TNT SERIES
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12611
+#EXTINF:-1,BR: CINE SKY 01 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/19698
+#EXTINF:-1,BR: CINE SKY 02 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/19697
+#EXTINF:-1,BR: CINE SKY 03 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/19696
+#EXTINF:-1,BR: CINE SKY 04 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/19695
+#EXTINF:-1,BR: CINE SKY 05 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/19694
+#EXTINF:-1,BR: CINE SKY 06 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/19693
+#EXTINF:-1,BR: CINE SKY 07 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/19692
+#EXTINF:-1,BR: CINE SKY 08 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/19691
+#EXTINF:-1,BR: CINE SKY 09 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/19690
+#EXTINF:-1,BR: CINE SKY 10 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/19689
+#EXTINF:-1,BR: DISNEY CHANNEL
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12613
+#EXTINF:-1,BR: DISNEY XD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12614
+#EXTINF:-1,BR: TOONCAST
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12615
+#EXTINF:-1,BR: DISNEY JUNIOR
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12616
+#EXTINF:-1,BR: CARTOON NETWORK
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12617
+#EXTINF:-1,BR: NICKELODEON
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12618
+#EXTINF:-1,BR: NICK JUNIOR
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12619
+#EXTINF:-1,BR: BOOMERANG
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12620
+#EXTINF:-1,BR: GLOOB
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12621
+#EXTINF:-1,BR: GLOOBINHO
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/19686
+#EXTINF:-1,BR: BABY TV
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12622
+#EXTINF:-1,BR: NATGEO KIDS
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12625
+#EXTINF:-1,BR: DISCOVERY KIDS
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12626
+#EXTINF:-1,BR: NATIONAL GEOGRAPHIC
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12623
+#EXTINF:-1,BR: NATGEO WILD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12624
+#EXTINF:-1,BR: LIFETIME
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12627
+#EXTINF:-1,BR: ID INVESTIGATION
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12628
+#EXTINF:-1,BR: DISCOVERY WORLD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12629
+#EXTINF:-1,BR: DISCOVERY
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12630
+#EXTINF:-1,BR: DISCOVERY TURBO
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12631
+#EXTINF:-1,BR: DISCOVERY THEATER
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12632
+#EXTINF:-1,BR: DISCOVERY HOME E HEALTH
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12633
+#EXTINF:-1,BR: DISCOVERY CIVILIZATION
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12634
+#EXTINF:-1,BR. DISCOVERY SCIENCE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12635
+#EXTINF:-1,BR: HISTORY CHANNEL
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12636
+#EXTINF:-1,BR: HISTORY 2
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12637
+#EXTINF:-1,BR: FOOD NETWORK
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12638
+#EXTINF:-1,BR: FISH TV
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12639
+#EXTINF:-1,BR: BIS
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12640
+#EXTINF:-1,BR: A e E
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12641
+#EXTINF:-1,BR: E
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12642
+#EXTINF:-1,BR. OFF
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12643
+#EXTINF:-1,BR: MTV
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12644
+#EXTINF:-1,BR: WOOHOO
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12646
+#EXTINF:-1,BR: COMBATE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12647
+#EXTINF:-1,BR: SPORTV
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12648
+#EXTINF:-1,BR: SPORTV 2
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12649
+#EXTINF:-1,BR: SPORTV 3
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12650
+#EXTINF:-1,BR: PREMIERE CLUBS
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12651
+#EXTINF:-1,BR: PREMIERE 2
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12652
+#EXTINF:-1,BR: PREMIERE 3
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12653
+#EXTINF:-1,BR: PREMIERE 4
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12654
+#EXTINF:-1,BR: PREMIERE 5
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12655
+#EXTINF:-1,BR: PREMIERE 6
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12656
+#EXTINF:-1,BR: FOX SPORT
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12657
+#EXTINF:-1,BR: FOX SPORT 2
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12658
+#EXTINF:-1,BR: ESPN
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12659
+#EXTINF:-1,BR: ESPN BRASIL
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12660
+#EXTINF:-1,BR: ESPN 2
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12661
+#EXTINF:-1,DE: RTL
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12662
+#EXTINF:-1,DE: RTL 2
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12663
+#EXTINF:-1,DE: VOX
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12664
+#EXTINF:-1,DE: ZDF
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12665
+#EXTINF:-1,DE: ORF 1
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12666
+#EXTINF:-1,DE: SAT 1
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12667
+#EXTINF:-1,DE: DAS ERSTE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12668
+#EXTINF:-1,DE: PRO7
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/19700
+#EXTINF:-1,DE: KABEL 1
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12669
+#EXTINF:-1,DE: WDR
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12670
+#EXTINF:-1,DE: SWR
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12671
+#EXTINF:-1,DE: Tele 5
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12672
+#EXTINF:-1,DE: Tagesschau24
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12673
+#EXTINF:-1,DE: Zee One
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12674
+#EXTINF:-1,DE: One
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12675
+#EXTINF:-1,DE: Nitro
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12676
+#EXTINF:-1,DE: Welt
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12677
+#EXTINF:-1,DE: Sat 1 Gold
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12678
+#EXTINF:-1,DE: RTL Crime
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12679
+#EXTINF:-1,DE: 3 SAT
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12680
+#EXTINF:-1,DE: N TV
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12681
+#EXTINF:-1,DE: AXN
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12682
+#EXTINF:-1,DE: SKY FOX
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12683
+#EXTINF:-1,DE: TNT FILM
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12684
+#EXTINF:-1,DE: SKY 1
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12685
+#EXTINF:-1,DE: Sky Krimi
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12686
+#EXTINF:-1,DE: Sky Atlantic
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12687
+#EXTINF:-1,DE: Crime Investigation
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12688
+#EXTINF:-1,DE: Comedy Central
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12689
+#EXTINF:-1,DE: TLC
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12690
+#EXTINF:-1,DE: SONY
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12691
+#EXTINF:-1,DE: SKY CINEMA HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12692
+#EXTINF:-1,DE: SKY CINEMA 1
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12693
+#EXTINF:-1,DE: SKY CINEMA 24
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12694
+#EXTINF:-1,DE: SKY UNIVERSAL
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12695
+#EXTINF:-1,DE: Sky Comedy
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12696
+#EXTINF:-1,DE: Sky Cinema Hits
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12697
+#EXTINF:-1,DE: Sky Action
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12698
+#EXTINF:-1,DE: SKY FAMILY
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12699
+#EXTINF:-1,DE: Sky Emotion
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12700
+#EXTINF:-1,DE: SKY TNT SERIE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12701
+#EXTINF:-1,DE: SKY TNT COMEDY
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12702
+#EXTINF:-1,DE: SKY 13TH STREET
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12703
+#EXTINF:-1,DE: SIXX
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12704
+#EXTINF:-1,DE: PROSIEBEN MAXX
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12705
+#EXTINF:-1,DE: PRO7 FUN
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12706
+#EXTINF:-1,DE: Kinowelt
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12707
+#EXTINF:-1,DE: SKY SYFY
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12708
+#EXTINF:-1,DE: Sky Select 1 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12709
+#EXTINF:-1,DE: Sky Select 2 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12710
+#EXTINF:-1,DE: Sky Select 3 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12711
+#EXTINF:-1,DE: Sky Select 4 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12712
+#EXTINF:-1,DE: Sky Select 5 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12713
+#EXTINF:-1,DE: Sky Select 6 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12714
+#EXTINF:-1,DE: Sky Select 7 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12715
+#EXTINF:-1,DE: Sky Select 8 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12716
+#EXTINF:-1,DE: SELECT POPCORN 1
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12717
+#EXTINF:-1,DE: SELECT POPCORN 2
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12718
+#EXTINF:-1,DE: SELECT POPCORN 3
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12719
+#EXTINF:-1,DE: SELECT POPCORN 4
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12720
+#EXTINF:-1,DE: Disney Channel
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12721
+#EXTINF:-1,DE: DISNEY CINEMA MAGIC
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12722
+#EXTINF:-1,DE: SKY DISNEY JUNIOR
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12723
+#EXTINF:-1,DE: Sky Disney XD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12724
+#EXTINF:-1,DE: Toggo
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12725
+#EXTINF:-1,DE: Super RTL
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12726
+#EXTINF:-1,DE: Nick
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12727
+#EXTINF:-1,DE: Nick JR
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12728
+#EXTINF:-1,DE: KIKA
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12729
+#EXTINF:-1,DE: BOOMERANG
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12731
+#EXTINF:-1,DE: Junior
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12732
+#EXTINF:-1,DE: SKY Cartoon Network
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12733
+#EXTINF:-1,DE: SKY DISCOVERY CHANNEL
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12734
+#EXTINF:-1,DE: SKY HISTORY
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12735
+#EXTINF:-1,DE: Nat Geo Wild
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12736
+#EXTINF:-1,DE: Nat Geo
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12737
+#EXTINF:-1,DE: MTV Rocks
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12738
+#EXTINF:-1,DE: MTV Live
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12739
+#EXTINF:-1,DE: MTV Europe
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12740
+#EXTINF:-1,DE: MTV Dance
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12741
+#EXTINF:-1,DE: MTV
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12742
+#EXTINF:-1,DE: JukeBox
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12743
+#EXTINF:-1,DE: Deluxe Music
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12744
+#EXTINF:-1,DE: Motorvision
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12745
+#EXTINF:-1,DE: Bon Gusto
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12746
+#EXTINF:-1,DE: Sky Romance TV
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12747
+#EXTINF:-1,DE: Sky Nostalgie
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12748
+#EXTINF:-1,DE: Sky Spiegel Geschichte
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12749
+#EXTINF:-1,DE: Sky Heimatkanal
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12750
+#EXTINF:-1,DE: Kabel eins Doku
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12751
+#EXTINF:-1,DE: Kabel eins Classics
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12752
+#EXTINF:-1,DE: PLANET ANIMAL
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12753
+#EXTINF:-1,DE: E ENTERTAINMENT
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12754
+#EXTINF:-1,DE: eSports 1 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12755
+#EXTINF:-1,DE: EuroSport 1 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12756
+#EXTINF:-1,DE: EuroSport 2 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12757
+#EXTINF:-1,DE: EuroSport 2 Xtra HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12758
+#EXTINF:-1,DE: Auto Motor Sport
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12759
+#EXTINF:-1,DE: Sky Sport 1
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12760
+#EXTINF:-1,DE: Sky Sport 2
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12761
+#EXTINF:-1,DE: ORF SPORTS
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12762
+#EXTINF:-1,DE: Dazn 1
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12763
+#EXTINF:-1,DE: Dazn 2
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12764
+#EXTINF:-1,DE: Sportdigital HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12765
+#EXTINF:-1,DE: Sport 1 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12766
+#EXTINF:-1,DE: Sky Sport News
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12767
+#EXTINF:-1,DE: SKY SPORT 1 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12768
+#EXTINF:-1,DE: SKY SPORT 2 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12769
+#EXTINF:-1,DE: Sky Sport 3 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12770
+#EXTINF:-1,DE: Sky Sport 4 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12771
+#EXTINF:-1,DE: Sky Sport 5 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12772
+#EXTINF:-1,DE: Sky Sport 6 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12773
+#EXTINF:-1,DE: Sky Sport 7 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12774
+#EXTINF:-1,DE: Sky Sport 8 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12775
+#EXTINF:-1,DE: Sky Sport 9 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12776
+#EXTINF:-1,DE: Sky Sport 10
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12777
+#EXTINF:-1,DE: Sky Sport 11
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12778
+#EXTINF:-1,DE: Sky Sport Bundesliga 1 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12779
+#EXTINF:-1,DE: Sky Sport Bundesliga 2 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12780
+#EXTINF:-1,DE: Sky Sport Bundesliga 3 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12781
+#EXTINF:-1,DE: Sky Sport Bundesliga 4 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12782
+#EXTINF:-1,DE: Sky Sport Bundesliga 5 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12783
+#EXTINF:-1,DE: Sky Sport Bundesliga 6 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12784
+#EXTINF:-1,DE: Sky Sport Bundesliga 7 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12785
+#EXTINF:-1,DE: Sky Sport Bundesliga 8 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12786
+#EXTINF:-1,DE: Sky Sport Bundesliga 9 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12787
+#EXTINF:-1,DE: Sky Sport Bundesliga 10 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12788
+#EXTINF:-1,ES: LA 1 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12789
+#EXTINF:-1,ES: LA 1
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12790
+#EXTINF:-1,ES: LA 2
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12791
+#EXTINF:-1,ES: ANTENA 3 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12792
+#EXTINF:-1,ES: ANTENA 3
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12793
+#EXTINF:-1,ES: CUATRO HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12794
+#EXTINF:-1,ES: CUATRO
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12795
+#EXTINF:-1,ES: LA SEXTA
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12796
+#EXTINF:-1,ES: LA SEXTA HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12797
+#EXTINF:-1,ES: CANAL SUR A
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12798
+#EXTINF:-1,ES: 0
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12799
+#EXTINF:-1,ES: ARAGON TV
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12800
+#EXTINF:-1,ES: NOVA
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12801
+#EXTINF:-1,ES: CLAN TVE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12802
+#EXTINF:-1,ES: 24 HORAS
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12803
+#EXTINF:-1,ES: RCN
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12804
+#EXTINF:-1,ES: RTVCE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12805
+#EXTINF:-1,ES:MOVISTAR CINEDOCyROLL
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12808
+#EXTINF:-1,ES:MOVISTAR CINE ESPANOL N
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12809
+#EXTINF:-1,ES: XTRM
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12810
+#EXTINF:-1,ES: VIRGIN TV
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12811
+#EXTINF:-1,ES: VIAJAR HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12812
+#EXTINF:-1,ES: VIAJAR
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12813
+#EXTINF:-1,ES: TV3 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12815
+#EXTINF:-1,ES: TV GALICIA
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12816
+#EXTINF:-1,ES: TNT
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12817
+#EXTINF:-1,ES: TEN
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12818
+#EXTINF:-1,ES: TELESUR HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12819
+#EXTINF:-1,ES: TELENOVELAS
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12820
+#EXTINF:-1,ES: TELECINCO HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12822
+#EXTINF:-1,ES: TELECINCO
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12823
+#EXTINF:-1,ES: TELE MADRID HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12825
+#EXTINF:-1,ES: TDP HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12827
+#EXTINF:-1,ES: TCM
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12828
+#EXTINF:-1,ES: SYFY HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12829
+#EXTINF:-1,ES: PARAMOUNT CHANNEL
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12830
+#EXTINF:-1,ES: MOVISTAR ACCION HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12831
+#EXTINF:-1,ES: MOVISTAR ACCION
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12832
+#EXTINF:-1,ES: MOVISTAR COMEDIA HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12833
+#EXTINF:-1,ES: MOVISTAR COMEDIA
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12834
+#EXTINF:-1,ES: MOVISTAR ESTRENOS HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12835
+#EXTINF:-1,ES: MOVISTAR ESTRENOS
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12836
+#EXTINF:-1,ES: MOVISTAR DRAMA HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12837
+#EXTINF:-1,ES: MOVISTAR DRAMA
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12838
+#EXTINF:-1,ES: MOVISTAR DCINE HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12839
+#EXTINF:-1,ES: MOVISTAR DCINE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12840
+#EXTINF:-1,ES: MOVISTAR CINEDOCyROLL HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12841
+#EXTINF:-1,ES: MEGA
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12842
+#EXTINF:-1,ES: MOVISTAR SERIESMANIA HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12845
+#EXTINF:-1,ES: MOVISTAR SERIES XTRA
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12846
+#EXTINF:-1,ES: MOVISTAR SERIES HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12847
+#EXTINF:-1,ES: MOVISTAR SERIEMANIA
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12848
+#EXTINF:-1,ES: HOLLYWOOD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12849
+#EXTINF:-1,ES: FOX HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12850
+#EXTINF:-1,ES: FOX
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12851
+#EXTINF:-1,ES: FOX LIFE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12852
+#EXTINF:-1,ES: DMAX
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12853
+#EXTINF:-1,ES: DKISS
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12854
+#EXTINF:-1,ES: DIVINITY
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12855
+#EXTINF:-1,ES: COMEDY CENTRAL HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12856
+#EXTINF:-1,ES: COMEDY CENTRAL
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12857
+#EXTINF:-1,ES: CALLE 13 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12858
+#EXTINF:-1,ES: CALLE 13
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12859
+#EXTINF:-1,ES: BLAZE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12860
+#EXTINF:-1,ES: AXN WHITE HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12861
+#EXTINF:-1,ES: AXN WHITE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12862
+#EXTINF:-1,ES: AXN HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12863
+#EXTINF:-1,ES: AXN
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12864
+#EXTINF:-1,ES: A3 SERIE HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12865
+#EXTINF:-1,ES: NEOX
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12866
+#EXTINF:-1,ES: AE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12868
+#EXTINF:-1,ES: BE MAD HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12869
+#EXTINF:-1,ES: B MAD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12870
+#EXTINF:-1,ES: ODISEA
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12874
+#EXTINF:-1,ES: NAT GEOGRAPHIC HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12876
+#EXTINF:-1,ES: NAT GEOGRAPHIC
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12877
+#EXTINF:-1,ES: NAT GEO WILD HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12878
+#EXTINF:-1,ES: NAT GEO WILD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12879
+#EXTINF:-1,ES: MTV ESPANA
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12880
+#EXTINF:-1,ES: IBERALIA TV
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12881
+#EXTINF:-1,ES: HISTORIA
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12882
+#EXTINF:-1,ES: SOMOS
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12883
+#EXTINF:-1,ES: TELEDEPORTE HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12884
+#EXTINF:-1,ES: TELEDEPORTE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12885
+#EXTINF:-1,ES: MOVISTAR VAMOS HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12886
+#EXTINF:-1,ES: MOVISTAR VAMOS
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12887
+#EXTINF:-1,ES: MOVISTAR TOROS HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12888
+#EXTINF:-1,ES: MOVISTAR GOLF HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12891
+#EXTINF:-1,ES: MOVISTAR GOLF
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12892
+#EXTINF:-1,ES: MOVISTAR FORMULA1 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12893
+#EXTINF:-1,ES: MOVISTAR FORMULA1
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12894
+#EXTINF:-1,ES: MOVISTAR DEPORTES HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12895
+#EXTINF:-1,ES: MOVISTAR DEPORTES
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12896
+#EXTINF:-1,ES: MOVISTAR DEPORTES 2 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12897
+#EXTINF:-1,ES: MOVISTAR DEPORTES 2
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12898
+#EXTINF:-1,ES: LA LIGA TV HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12900
+#EXTINF:-1,ES: LALIGATV BAR HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12901
+#EXTINF:-1,ES: LALIGATV BAR
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12902
+#EXTINF:-1,ES: GOL TV
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12903
+#EXTINF:-1,ES: EUROSPORT 1 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12907
+#EXTINF:-1,ES: EUROSPORT 1
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12908
+#EXTINF:-1,ES: EUROSPORT 2
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12909
+#EXTINF:-1,ES: BEINSPORTS HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12910
+#EXTINF:-1,ES: BEIN SPORT
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12911
+#EXTINF:-1,ES: BEIN LALIGA HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12912
+#EXTINF:-1,ES: BEIN LALIGA
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12913
+#EXTINF:-1,ES: BEIN LA LIGA 1 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12914
+#EXTINF:-1,ES: BEIN LA LIGA 123 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12915
+#EXTINF:-1,ES: BARCA TV
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12916
+#EXTINF:-1,ES: ETC TV ECUADOR
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12917
+#EXTINF:-1,ES: FDF
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12918
+#EXTINF:-1,ES: ERAGON TV
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12920
+#EXTINF:-1,ES: ENERGY
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12921
+#EXTINF:-1,ES: DISCOVERY CRIME INVESTIGATION
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12923
+#EXTINF:-1,ES: DISCOVERY CHANNEL
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12924
+#EXTINF:-1,ES: DECASA
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12925
+#EXTINF:-1,ES: COSMO HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12926
+#EXTINF:-1,ES: COSMO
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12927
+#EXTINF:-1,ES: CAZA y PESCA HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12928
+#EXTINF:-1,ES: CAZA Y PESCA
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12929
+#EXTINF:-1,ES: CANAL ORBI 21
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12930
+#EXTINF:-1,ES: CANAL GOL
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12931
+#EXTINF:-1,ES: CANAL COCINA
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12933
+#EXTINF:-1,ES: CANAL ANDALUCIA
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12934
+#EXTINF:-1,ES: MOVISTAR DISNEY
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12935
+#EXTINF:-1,ES: PANDA
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12936
+#EXTINF:-1,ES: NICKELODEON JR
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12937
+#EXTINF:-1,ES: NICKELODEON HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12938
+#EXTINF:-1,ES: CARACOL TV
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12939
+#EXTINF:-1,ES: DISNEY XD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12940
+#EXTINF:-1,ES: DISNEY JR
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12941
+#EXTINF:-1,ES: DISNEY CHANNEL HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12942
+#EXTINF:-1,ES: DISNEY CHANNEL
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12943
+#EXTINF:-1,ES: CANAL PANDA
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12944
+#EXTINF:-1,ES: BOING
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12945
+#EXTINF:-1,ES: BABY TV
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12946
+#EXTINF:-1,FR: TF1 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12947
+#EXTINF:-1,FR: TF1
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12948
+#EXTINF:-1,FR: TF1 plus 1
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12982
+#EXTINF:-1,FR: M6
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12949
+#EXTINF:-1,FR: W9
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12950
+#EXTINF:-1,FR: FRANCE 0
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12951
+#EXTINF:-1,FR: FRANCE 2
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12952
+#EXTINF:-1,FR: FRANCE 3
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12953
+#EXTINF:-1,FR: FRANCE 3 NOA
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12954
+#EXTINF:-1,FR: FRANCE 4
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12955
+#EXTINF:-1,FR: FRANCE 5
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12956
+#EXTINF:-1,FR: FRANCE INFO
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12957
+#EXTINF:-1,FR: RTL9
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12958
+#EXTINF:-1,FR: WEO
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12959
+#EXTINF:-1,FR: A LA UNE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12960
+#EXTINF:-1,FR: LA TROIS
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/19672
+#EXTINF:-1,FR: RTS UN
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12961
+#EXTINF:-1,FR: RTS DEUX
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12962
+#EXTINF:-1,FR: 1 RTL LUXEMBURG
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12963
+#EXTINF:-1,FR: 2 RTL LUXEMBURG
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12964
+#EXTINF:-1,FR: TV8 MONT BLANC
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12965
+#EXTINF:-1,FR: TV5 MONDE FBS
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12966
+#EXTINF:-1,FR: AB1
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12968
+#EXTINF:-1,FR: AB3
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12969
+#EXTINF:-1,FR: 6TER
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12970
+#EXTINF:-1,FR: CHERIE 25
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12971
+#EXTINF:-1,FR: C8
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12972
+#EXTINF:-1,FR: TEVA
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12984
+#EXTINF:-1,FR: RTL TVI
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/19674
+#EXTINF:-1,FR: TIPIK
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/19673
+#EXTINF:-1,FR: ONE TV
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13041
+#EXTINF:-1,FR: NOVELAS TV
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13048
+#EXTINF:-1,FR: CSTAR
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13093
+#EXTINF:-1,FR: BFM TV
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12973
+#EXTINF:-1,FR: BFM PARIS
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12974
+#EXTINF:-1,FR: BFM LYON
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12975
+#EXTINF:-1,FR: LE EQUIPE 21
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12976
+#EXTINF:-1,FR: RFM TV
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13017
+#EXTINF:-1,FR: I24 NEWS
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12967
+#EXTINF:-1,FR: LCI
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13069
+#EXTINF:-1,FR: TF1 SERIES e FILMS
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12981
+#EXTINF:-1,FR: CANAL
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13113
+#EXTINF:-1,FR: PORTAIL CANALPLAY
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13018
+#EXTINF:-1,FR: CANAL DECALE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13110
+#EXTINF:-1,FR: CANAL SERIES
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13107
+#EXTINF:-1,FR: CANAL FAMILY
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13109
+#EXTINF:-1,FR: CANAL CINEMA
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13111
+#EXTINF:-1,FR: TMC
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12978
+#EXTINF:-1,FR: TMC 1
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12977
+#EXTINF:-1,FR: TCM CINEMA
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12987
+#EXTINF:-1,FR: TFX
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12980
+#EXTINF:-1,FR: SYFY
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12988
+#EXTINF:-1,FR: 13EME RUE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13128
+#EXTINF:-1,FR: SERIE CLUB
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12990
+#EXTINF:-1,FR: POLAR
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13019
+#EXTINF:-1,FR: WARNER TV
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13022
+#EXTINF:-1,FR: PARIS PREMIERE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13038
+#EXTINF:-1,FR: PARAMOUNT CHANNEL
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13040
+#EXTINF:-1,FR: PARAMOUNT DECALE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13039
+#EXTINF:-1,FR: OCS MAX
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13042
+#EXTINF:-1,FR: OCS GEANTS
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13043
+#EXTINF:-1,FR: OCS CITY
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13044
+#EXTINF:-1,FR: OCS CHOC
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13045
+#EXTINF:-1,FR: CRIME DISTRICT
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13094
+#EXTINF:-1,FR: CINE PREMIER
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13098
+#EXTINF:-1,FR: CINE FRISSON
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13099
+#EXTINF:-1,FR: CINE FAMIZ
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13100
+#EXTINF:-1,FR: CINE EMOTION
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13101
+#EXTINF:-1,FR: CINE CLUB
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13102
+#EXTINF:-1,FR: CINE CLASSIC
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13103
+#EXTINF:-1,FR: COMEDIE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13096
+#EXTINF:-1,FR: ALTICE STUDIO
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13126
+#EXTINF:-1,FR: ACTION
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13127
+#EXTINF:-1,FR: NOLLYWOOD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13050
+#EXTINF:-1,FR: MY COMEDY TV
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13059
+#EXTINF:-1,FR: COMEDY CENTRAL FRANCE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13095
+#EXTINF:-1,FR: NICKELODEON
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13053
+#EXTINF:-1,FR: NICKELODEON 1
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13052
+#EXTINF:-1,FR: NICK JUNIOR
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13054
+#EXTINF:-1,FR: NICKELODEON 4 TEEN
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13051
+#EXTINF:-1,FR: TELETOON
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12986
+#EXTINF:-1,FR: TELETOON 1
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12985
+#EXTINF:-1,FR: TOONAMI
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13035
+#EXTINF:-1,FR: TIJI
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12979
+#EXTINF:-1,FR: PIWI
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13037
+#EXTINF:-1,FR: CARTOON NETWORK
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13105
+#EXTINF:-1,FR: DISNEY CHANNEL
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13088
+#EXTINF:-1,FR: DISNEY CHANNEL 1
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13087
+#EXTINF:-1,FR: DISNEY JUNIOR
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13085
+#EXTINF:-1,FR: DISNEY CINEMA
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13086
+#EXTINF:-1,FR: BABY TV
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13122
+#EXTINF:-1,FR: BOING
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13116
+#EXTINF:-1,FR: BOOMERANG
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13115
+#EXTINF:-1,FR: CANAL J
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13108
+#EXTINF:-1,FR: GULLI
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13073
+#EXTINF:-1,FR: J ONE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13070
+#EXTINF:-1,FR: MANGAS
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13065
+#EXTINF:-1,FR: GAME ONE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13077
+#EXTINF:-1,FR: GAME ONE 1
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13076
+#EXTINF:-1,FR: TF1 4K
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12983
+#EXTINF:-1,FR: SEASON
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12991
+#EXTINF:-1,FR: SCIENCES e VIE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12992
+#EXTINF:-1,FR: BREIZH
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/19671
+#EXTINF:-1,FR: CANAL SPORT
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13106
+#EXTINF:-1,FR: INFOSPORT
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13071
+#EXTINF:-1,FR: GOLF CHANNEL FRANCE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13074
+#EXTINF:-1,FR: GOLF
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13075
+#EXTINF:-1,FR: FOOT 24
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13078
+#EXTINF:-1,FR: EXTREME SPORTS
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13079
+#EXTINF:-1,FR: EUROSPORT 2
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13080
+#EXTINF:-1,FR: EUROSPORT
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13081
+#EXTINF:-1,FR: BET FRANCE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13117
+#EXTINF:-1,FR: AUTOMOTO LA CHAINE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13123
+#EXTINF:-1,FR: MULTISPORTS 1
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/19676
+#EXTINF:-1,FR: MULTISPORTS 2
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/19675
+#EXTINF:-1,FR: RMC DECOUVERTE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12993
+#EXTINF:-1,FR: BEINSPORT 1 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13118
+#EXTINF:-1,FR: BEINSPORT 2 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13119
+#EXTINF:-1,FR: BEINSPORT 3 HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13120
+#EXTINF:-1,FR: BEIN SPORTS MAX 4 
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/19681
+#EXTINF:-1,FR: BEIN SPORTS MAX 5
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/19682
+#EXTINF:-1,FR: BEIN SPORTS MAX 6
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/19683
+#EXTINF:-1,FR: BEIN SPORTS MAX 7
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/19680
+#EXTINF:-1,FR: BEIN SPORTS MAX 8
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/19679
+#EXTINF:-1,FR: BEIN SPORTS MAX 9
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/19678
+#EXTINF:-1,FR: BEIN SPORTS MAX 10
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/19677
+#EXTINF:-1,FR: RMC 4K
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12994
+#EXTINF:-1,FR: PORTAIL - RMC SPORT
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12995
+#EXTINF:-1,FR: RMC SPORT 1
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12996
+#EXTINF:-1,FR: RMC SPORT 1 ACCESS
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12997
+#EXTINF:-1,FR: RMC SPORT 2
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12998
+#EXTINF:-1,FR: RMC SPORT 2 ACCESS
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12999
+#EXTINF:-1,FR: RMC SPORT 3
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13000
+#EXTINF:-1,FR: RMC SPORT 3 ACCESS
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13001
+#EXTINF:-1,FR: RMC SPORT 4
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13002
+#EXTINF:-1,FR: RMC SPORT LIVE 5
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13003
+#EXTINF:-1,FR: RMC SPORT LIVE 6
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13004
+#EXTINF:-1,FR: RMC SPORT LIVE 7
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13005
+#EXTINF:-1,FR: RMC SPORT LIVE 8
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13006
+#EXTINF:-1,FR: RMC SPORT LIVE 9
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13007
+#EXTINF:-1,FR: RMC SPORT LIVE 10
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13008
+#EXTINF:-1,FR: RMC SPORT LIVE 11
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13009
+#EXTINF:-1,FR: RMC SPORT LIVE 12
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13010
+#EXTINF:-1,FR: RMC SPORT LIVE 13
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13011
+#EXTINF:-1,FR: RMC SPORT LIVE 14
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13012
+#EXTINF:-1,FR: RMC SPORT LIVE 15
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13013
+#EXTINF:-1,FR: RMC SPORT LIVE 16
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13014
+#EXTINF:-1,FR: RMC STORY
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13015
+#EXTINF:-1,FR: RMC SPORT NEWS
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13016
+#EXTINF:-1,FR: CHASSE e PECHE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13104
+#EXTINF:-1,FR: PLANETE CI
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13020
+#EXTINF:-1,FR: PLANETE AeE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13021
+#EXTINF:-1,FR: TREK
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13023
+#EXTINF:-1,FR: VICELAND
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13024
+#EXTINF:-1,FR: VH1
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13025
+#EXTINF:-1,FR: USHUAIA TV
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13026
+#EXTINF:-1,FR: TRACE URBAN
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13027
+#EXTINF:-1,FR: TRACE TROPICAL
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13028
+#EXTINF:-1,FR: TRACE TOCA
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13029
+#EXTINF:-1,FR: TRACE NAIJA
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13030
+#EXTINF:-1,FR: TRACE MZIKI
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13031
+#EXTINF:-1,FR: TRACE LATINA
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13032
+#EXTINF:-1,FR: TRACE GOSPEL
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13033
+#EXTINF:-1,FR: TOUTE LE HISTOIRE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13034
+#EXTINF:-1,FR: PLANETE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13036
+#EXTINF:-1,FR: NRJ HITS
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13046
+#EXTINF:-1,FR: NRJ 12
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13047
+#EXTINF:-1,FR: NON STOP PEOPLE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13049
+#EXTINF:-1,FR: NATIONAL GEO CHANNEL
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13055
+#EXTINF:-1,FR: NAT GEO WILD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13056
+#EXTINF:-1,FR: MYZEN TV
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13057
+#EXTINF:-1,FR: MY CUISINE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13058
+#EXTINF:-1,FR: MUSEUM CHANNEL
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13060
+#EXTINF:-1,FR: MTV HITS FRANCE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13061
+#EXTINF:-1,FR: MTV HD  FRANCE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13062
+#EXTINF:-1,FR: MCM
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13064
+#EXTINF:-1,FR: M6 MUSIC
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13066
+#EXTINF:-1,FR: LUCKY JACK TV
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13068
+#EXTINF:-1,FR: HISTOIRE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13072
+#EXTINF:-1,FR: EURONEWS FRANCE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13082
+#EXTINF:-1,FR: E ENTERTAINMENT
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13083
+#EXTINF:-1,FR: DISCOVERY SCIENCE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13089
+#EXTINF:-1,FR: DISCOVERY INVESTIGATION
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13090
+#EXTINF:-1,FR: DISCOVERY FAMILY
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13091
+#EXTINF:-1,FR: DISCOVERY CHANNEL
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13092
+#EXTINF:-1,FR: CLIQUE TV
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13097
+#EXTINF:-1,FR: BRAVA
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13114
+#EXTINF:-1,FR: ARTE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13124
+#EXTINF:-1,FR: ANIMAUX
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13125
+#EXTINF:-1,UK: ITV 1
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13129
+#EXTINF:-1,UK: ITV 2
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13130
+#EXTINF:-1,UK: ITV 3
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13131
+#EXTINF:-1,UK: ITV 4
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13132
+#EXTINF:-1,UK: BBC NEWS
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13133
+#EXTINF:-1,UK: BBC 1
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13134
+#EXTINF:-1,UK: BBC 2
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13135
+#EXTINF:-1,UK: BBC 3
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13136
+#EXTINF:-1,UK: BBC 4
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13137
+#EXTINF:-1,UK: 5STAR
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13138
+#EXTINF:-1,UK: 4SEVEN
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13139
+#EXTINF:-1,UK: CHANNEL 5
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13141
+#EXTINF:-1,UK: UNIVERSAL CHANNEL
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13142
+#EXTINF:-1,UK: SYFY
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13143
+#EXTINF:-1,UK: SKY SPORT FOOTBALL
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13144
+#EXTINF:-1,UK: SKY SPORT F1
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13145
+#EXTINF:-1,UK: SKY SPORT ARENA
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13146
+#EXTINF:-1,UK: SKY SELECT
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13147
+#EXTINF:-1,UK: SKY SCI FI
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13148
+#EXTINF:-1,UK: SKY PREMIER LEAGUE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13149
+#EXTINF:-1,UK: SKY PREMIER
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13150
+#EXTINF:-1,UK: SKY ONE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13151
+#EXTINF:-1,UK: SKY GREATS
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13153
+#EXTINF:-1,UK: SKY FAMILY
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13154
+#EXTINF:-1,UK: SKY DRAMA
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13155
+#EXTINF:-1,UK: SKY COMEDY
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13156
+#EXTINF:-1,UK: SKY ATLANTIC
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13157
+#EXTINF:-1,UK: SKY ACTION
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13158
+#EXTINF:-1,UK: PREMIER SPORTS
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13159
+#EXTINF:-1,UK: DISNEY XD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13160
+#EXTINF:-1,UK: DISNEY JUNIOR
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13161
+#EXTINF:-1,UK: DISNEY CHANNEL
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13162
+#EXTINF:-1,UK: COMEDY CENTRAL EXTRA
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13163
+#EXTINF:-1,UK: COMEDY CENTRAL
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13164
+#EXTINF:-1,UK: CARTOONITO
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13165
+#EXTINF:-1,UK: BT SPORTS  1
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13166
+#EXTINF:-1,UK: BT SPORT ESPN
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13167
+#EXTINF:-1,UK: BT SPORT 2
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13168
+#EXTINF:-1,UK: BOX NATION
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13169
+#EXTINF:-1,UK: BOOMERANG PLUS 1
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13170
+#EXTINF:-1,UK: BOOMERANG
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13171
+#EXTINF:-1,RTP 1 HEVC
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/20976
+#EXTINF:-1,RTP 2 HEVC
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/22031
+#EXTINF:-1,SIC HEVC
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/20977
+#EXTINF:-1,TVI HEVC
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/20978
+#EXTINF:-1,SIC NOTICIAS HEVC
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/20994
+#EXTINF:-1,TVI 24 HEVC
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/20980
+#EXTINF:-1,CMTV HEVC
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/20979
+#EXTINF:-1,TVI FICCAO HEVC
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/20981
+#EXTINF:-1,TV RECORD HEVC
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/22030
+#EXTINF:-1,GLOBO HEVC
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/22032
+#EXTINF:-1,PORTO CANAL HEVC
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/21004
+#EXTINF:-1,BENFICA TV HEVC
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/20988
+#EXTINF:-1,CANAL 11 HEVC
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/20993
+#EXTINF:-1,SPORTV + HEVC
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/21001
+#EXTINF:-1,SPORTV 1 HEVC
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/20982
+#EXTINF:-1,SPORTV 2 HEVC
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/20983
+#EXTINF:-1,SPORTV 3 HEVC
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/20989
+#EXTINF:-1,SPORTV 4 HEVC
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/20990
+#EXTINF:-1,SPORTV 5 HEVC
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/20991
+#EXTINF:-1,ELEVEN SPORTS 1 HEVC
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/20984
+#EXTINF:-1,ELEVEN SPORTS 2 HEVC
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/20985
+#EXTINF:-1,ELEVEN SPORTS 3 HEVC
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/20992
+#EXTINF:-1,HOLLYWOOD HEVC
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/22033
+#EXTINF:-1,CINEMUNDO HEVC
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/22034
+#EXTINF:-1,NOS STUDIOS HEVC
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/20995
+#EXTINF:-1,TVCINE ACTION HEVC
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/20987
+#EXTINF:-1,TVCINE TOP HEVC
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/20986
+#EXTINF:-1,AXN Hevc
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/20997
+#EXTINF:-1,AXN MOVIES HEVC
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/20998
+#EXTINF:-1,FOX HEVC
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/20996
+#EXTINF:-1,FOX MOVIES HEVC
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/20999
+#EXTINF:-1,HISTORIA HEVC
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/22035
+#EXTINF:-1,NATIONAL GEOGRAPHIC HEVC
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/21000
+#EXTINF:-1,DISCOVERY CHANEL  HEVC
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/21003
+#EXTINF:-1,ID DISCOVERY HEVC
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/21002
+#EXTINF:-1,RTP 1 MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/198
+#EXTINF:-1,RTP 2 MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/197
+#EXTINF:-1,SIC MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/195
+#EXTINF:-1,TVI MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/192
+#EXTINF:-1,TVI 24 MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/193
+#EXTINF:-1,SIC NOTICIAS MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/194
+#EXTINF:-1,RTP 3 MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/196
+#EXTINF:-1,PORTO CANAL MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/199
+#EXTINF:-1,CMTV MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/200
+#EXTINF:-1,TVI REALITY MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/201
+#EXTINF:-1,SIC MULHER MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/205
+#EXTINF:-1,SIC CARAS MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/206
+#EXTINF:-1,SIC RADICAL MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/204
+#EXTINF:-1,TVI FICCAO MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/202
+#EXTINF:-1,TV RECORD MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/203
+#EXTINF:-1,GLOBO MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/271
+#EXTINF:-1,GLOBO NOW MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/270
+#EXTINF:-1,ABOLA TV MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/273
+#EXTINF:-1,CANAL 11 MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/21005
+#EXTINF:-1,SPORTV + MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/267
+#EXTINF:-1,SPORTV 1 MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/212
+#EXTINF:-1,SPORTV 2 MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/211
+#EXTINF:-1,SPORTV 3 MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/210
+#EXTINF:-1,SPORTV 4 MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/209
+#EXTINF:-1,SPORTV 5 MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/208
+#EXTINF:-1,SPORTV NBA MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/215
+#EXTINF:-1,ELEVEN SPORTS 1 MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/213
+#EXTINF:-1,ELEVEN SPORTS 2 MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/266
+#EXTINF:-1,ELEVEN SPORTS 3 MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/272
+#EXTINF:-1,ELEVEN SPORTS 4 MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/222
+#EXTINF:-1,ELEVEN SPORTS 5 MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/221
+#EXTINF:-1,ELEVEN SPORTS 6 MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/220
+#EXTINF:-1,BTV 1 MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/214
+#EXTINF:-1,SPORTING TV MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/216
+#EXTINF:-1,PFC MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/217
+#EXTINF:-1,EUROSPORT 1 MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/219
+#EXTINF:-1,EUROSPORT 2 MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/218
+#EXTINF:-1,MOTORVISION MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/231
+#EXTINF:-1,CACA E PESCA MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/230
+#EXTINF:-1,DISNEY CHANNEL MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/245
+#EXTINF:-1,DISNEY JUNIOR MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/244
+#EXTINF:-1,CANAL PANDA MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/247
+#EXTINF:-1,PANDA BIGGS MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/250
+#EXTINF:-1,SIC K MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/242
+#EXTINF:-1,JIMJAM MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/240
+#EXTINF:-1,NICKELODEON MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/251
+#EXTINF:-1,BABY TV MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/248
+#EXTINF:-1,CARTOON NETWORK MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/246
+#EXTINF:-1,TVCINE TOP MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/229
+#EXTINF:-1,TVCINE EDITION MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/228
+#EXTINF:-1,TVCINE EMOTION MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/227
+#EXTINF:-1,TVCINE ACTION MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/226
+#EXTINF:-1,HOLLYWOOD MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/243
+#EXTINF:-1,CINEMUNDO MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/225
+#EXTINF:-1,SYFY MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/241
+#EXTINF:-1,AMC MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/249
+#EXTINF:-1,AXN MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/237
+#EXTINF:-1,AXN WHITE MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/239
+#EXTINF:-1,AXN MOVIES MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/238
+#EXTINF:-1,FOX MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/224
+#EXTINF:-1,FOX MOVIES MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/233
+#EXTINF:-1,FOX LIFE MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/234
+#EXTINF:-1,FOX CRIME MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/235
+#EXTINF:-1,FOX COMEDY MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/236
+#EXTINF:-1,CANAL HISTORIA MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/264
+#EXTINF:-1,ODISSEIA MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/262
+#EXTINF:-1,NAT GEO MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/252
+#EXTINF:-1,DISCOVERY MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/256
+#EXTINF:-1,CANAL Q MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/207
+#EXTINF:-1,TLC MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/260
+#EXTINF:-1,BLAZE MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/265
+#EXTINF:-1,FOOD NETWORK MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/254
+#EXTINF:-1,24 KITCHEN MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/257
+#EXTINF:-1,RTP AÃ‡ORES MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/269
+#EXTINF:-1,RTP MADEIRA MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/268
+#EXTINF:-1,HOT HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/174
+#EXTINF:-1,PLAYBOY HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/161
+#EXTINF:-1,VENUS
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/145
+#EXTINF:-1,PENTHOUSE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/162
+#EXTINF:-1,SEXTREME
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/153
+#EXTINF:-1,PORN BR PT
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/12348
+#EXTINF:-1,XXL
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/143
+#EXTINF:-1,XMUVI
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/144
+#EXTINF:-1,VIVID RED HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/141
+#EXTINF:-1,SEXTOSENSO
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/154
+#EXTINF:-1,SCT
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/155
+#EXTINF:-1,REDLIGHT HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/158
+#EXTINF:-1,PRIVATE TV HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/160
+#EXTINF:-1,PASSIONXXX
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/163
+#EXTINF:-1,HUSTLER HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/173
+#EXTINF:-1,DORCEL TV HD
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/177
+#EXTINF:-1,CENTOXCENTO TV
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/183
+#EXTINF:-1,BRAZZERS TV
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/187
+#EXTINF:-1,XXX: SEXY HOT
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13172
+#EXTINF:-1,XXX: TRANS_TV
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/15155
+#EXTINF:-1,XXX: GAY_TV
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/21163
+#EXTINF:-1,XXX: BIG_BOOBS
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/15153
+#EXTINF:-1,XXX: A_MATURE_CHANNEL
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/15152
+#EXTINF:-1,XXX: BALKAN EROTIC
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13192
+#EXTINF:-1,XXX: PORN MOVIES 1
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/16057
+#EXTINF:-1,XXX: PORN MOVIES 2
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/16056
+#EXTINF:-1,XXX: PORN MOVIES 3
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/16055
+#EXTINF:-1,XXX: PORN MOVIES 4
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/16054
+#EXTINF:-1,XXX: PORN MOVIES 5
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/16053
+#EXTINF:-1,XXX: PORN MOVIES 6
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/16062
+#EXTINF:-1,XXX: PORN MOVIES 7
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/16061
+#EXTINF:-1,XXX: PORN MOVIES 8
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/16060
+#EXTINF:-1,XXX: PORN MOVIES 9
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/16059
+#EXTINF:-1,XXX: PORN MOVIES 10
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/16058
+#EXTINF:-1,XXX: MARTELADA 1
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13173
+#EXTINF:-1,XXX: MARTELADA 2
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13174
+#EXTINF:-1,XXX: MARTELADA 3
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13175
+#EXTINF:-1,XXX: MARTELADA 4
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13176
+#EXTINF:-1,XXX: MARTELADA 5
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13177
+#EXTINF:-1,XXX: MARTELADA 6
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13178
+#EXTINF:-1,XXX: XUPAMISTO 1
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13179
+#EXTINF:-1,XXX: XUPAMISTO 2
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13180
+#EXTINF:-1,XXX: TODALADENTRO
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13181
+#EXTINF:-1,XXX: TODALADENTRO 2
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13182
+#EXTINF:-1,XXX: TODALADENTRO 3
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13183
+#EXTINF:-1,XXX: EROTIC 1
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13184
+#EXTINF:-1,XXX: EROTIC 2
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13185
+#EXTINF:-1,XXX: EROTIC 3
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13186
+#EXTINF:-1,XXX: EROTIC 4
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13187
+#EXTINF:-1,XXX: EROTIC 5
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13188
+#EXTINF:-1,XXX: EROTIC 6
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13189
+#EXTINF:-1,XXX: EROTIC 7
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13190
+#EXTINF:-1,XXX: EROTIC 8
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/13191
+#EXTINF:-1,PLAYBOY MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/261
+#EXTINF:-1,VENUS MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/259
+#EXTINF:-1,HOT MOBILE
+http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/263
